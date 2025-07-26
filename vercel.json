@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/start_ritual", "destination": "/start_ritual.html" }
+  ]
+}
