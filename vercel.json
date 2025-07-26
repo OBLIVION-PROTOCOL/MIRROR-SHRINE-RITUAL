@@ -1,5 +1,8 @@
 {
   "rewrites": [
-    { "source": "/start_ritual", "destination": "/start_ritual.html" }
+    {
+      "source": "/start_ritual",
+      "destination": "/start_ritual.html"
+    }
   ]
 }
